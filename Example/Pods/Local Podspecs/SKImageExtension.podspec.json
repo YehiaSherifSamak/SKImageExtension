@@ -1,0 +1,22 @@
+{
+  "name": "SKImageExtension",
+  "version": "0.1.0",
+  "summary": "A short description of SKImageExtension.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/YehiaSherifSamak/SKImageExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "YehiaSherifSamak": "mostafa.mohsen@softxpert.com"
+  },
+  "source": {
+    "git": "https://github.com/YehiaSherifSamak/SKImageExtension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SKImageExtension/Classes/**/*"
+}
